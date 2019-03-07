@@ -1,0 +1,17 @@
+{
+  "name": "csgonotworking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "works": "node works.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "csgo": "^1.5.12",
+    "steam-resources": "github:seishun/node-steam-resources"
+  }
+}
